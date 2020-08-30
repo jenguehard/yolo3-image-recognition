@@ -8,4 +8,6 @@ The downloaded file needs to be put into the yolo-coco directory.
 
 Here is an example of the command line to use the python file : 
 
+```
 python yolo_video.py --input videos/airport.mp4 --output output/airport_output.avi --yolo yolo-coco
+```
